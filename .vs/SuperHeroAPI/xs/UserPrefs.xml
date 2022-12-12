@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{5625E957-FF4C-49BF-8FC4-FC993EF8E09F}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SuperHeroAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SuperHeroAPI/Services/SuperHeroSevice/SuperHeroService.cs">
+    <Files>
+      <File FileName="SuperHeroAPI/Models/SuperHero.cs" />
+      <File FileName="SuperHeroAPI/Controllers/SuperHeroController.cs" />
+      <File FileName="SuperHeroAPI/Services/SuperHeroSevice/SuperHeroService.cs" Line="23" Column="58" />
+      <File FileName="SuperHeroAPI/Services/SuperHeroSevice/ISuperHeroService.cs" />
+      <File FileName="SuperHeroAPI/Program.cs" />
+      <File FileName="SuperHeroAPI/appsettings.json" />
+      <File FileName="SuperHeroAPI/Data/DataContext.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SuperHeroAPI" expanded="True">
+            <Node name="SuperHeroAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="SuperHeroSevice" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
